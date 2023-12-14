@@ -13,7 +13,7 @@ Please note that for correct SDK operating you must have at least Python 3.5.
 
 Install with pip
 ```bash
-pip install 1d3-sdk
+pip install 1d3-checkout-sdk
 ```
 
 ### Get URL for payment

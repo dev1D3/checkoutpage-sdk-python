@@ -5,8 +5,8 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name='1d3-sdk',
-    version='1.0.3',
+    name='1d3-checkout-sdk',
+    version='1.0.1',
     url='https://github.com/dev1d3/checkoutpage-sdk-python',
     license='MIT',
     long_description=README,
